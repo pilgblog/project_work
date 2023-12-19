@@ -18,7 +18,7 @@ Cоздать решение для сопоставления гео назва
 <li><a href='https://github.com/pilgblog/project_work/blob/main/сопоставление%20гео%20названий%20с%20унифицированными%20именами%20geonames/Finding_a_solution_geonames.ipynb'>Тестирование моделей и поиск решения</a></li>
 
 <h3>Этап 3</h3>
-<li><a href='https://github.com/pilgblog/project_work/blob/main/сопоставление%20гео%20названий%20с%20унифицированными%20именами%20geonames/test_my_model_geonames.ipynb'>Тестирование модели</a></li>
+<li><a href='https://github.com/pilgblog/project_work/blob/main/сопоставление%20гео%20названий%20с%20унифицированными%20именами%20geonames/test_my_model_geonames.ipynb'>Тестирование модели на тестовом датафрейме</a></li>
 
 ## Инструменты:
 SQL, Pandas, NLP, Transformers
